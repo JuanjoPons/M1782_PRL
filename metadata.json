@@ -1,0 +1,6 @@
+{
+  "name": "Módulo 1782 · Prevención de Riesgos Laborales",
+  "description": "Plataforma educativa interactiva de Prevención de Riesgos Laborales (Módulo 1782 · Grados A, B y C - Sistema Formación Profesional) con actividades autocorregibles y catálogo interactivo de señalización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
